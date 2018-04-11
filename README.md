@@ -16,3 +16,10 @@ Tapping any of the downloaded photos will display the image in fullscreen. <br/>
 
 ### Cocoapods
 Used Alamofire and AlamofireImage to download the image information in JSON format from Flickr.
+
+### Screenshots
+<img src="https://github.com/ErnestFan/PixelCity/blob/master/Screenshots/Authorization.png?raw=true" width="200">
+<img src="https://github.com/ErnestFan/PixelCity/blob/master/Screenshots/MainScreen.png?raw=true" width="200">
+<img src="https://github.com/ErnestFan/PixelCity/blob/master/Screenshots/DownloadingImage.png?raw=true" width="200">
+<img src="https://github.com/ErnestFan/PixelCity/blob/master/Screenshots/DownloadSuccess.png?raw=true" width="200">
+<img src="https://github.com/ErnestFan/PixelCity/blob/master/Screenshots/DisplayImageInPopUp.png?raw=true" width="200">
